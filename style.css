@@ -1,0 +1,54 @@
+/* Banner */
+#banner{
+	width:auto;
+	height:150px;
+	background-color:#01DF74;	
+}
+
+/* Modales pour les actions du site*/
+.myModal{
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+.modalContainer{
+	width: 555px;
+	background: #FFFFFF;
+	margin:auto;
+	margin-top:50px;
+}
+
+.modalHeader{
+	padding:10px;
+	background: #008CBA;
+	color: #FFFFFF;
+	height:50px;
+	font-size:20px;
+	padding-left:15px;
+}
+
+.modalBody{
+	padding:40px;
+}
+
+.modalFooter{
+	height:36px;
+}
+
+.footerBtn{
+	margin-right:10px;
+	margin-top:-9px;
+}
+
+.closeBtn{
+	background: #008CBA;
+	color: #FFFFFF;
+	border:none;
+}
+
+
+
